@@ -1,3 +1,0 @@
-## Prereqs
-
-- ripgrep, fd

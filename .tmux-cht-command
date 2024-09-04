@@ -12,6 +12,7 @@ rg
 ps
 mv
 kill
+kubectl
 lsof
 less
 head
